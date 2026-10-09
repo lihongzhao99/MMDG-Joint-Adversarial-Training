@@ -1,0 +1,10 @@
+EPIC-rgb-flow-audio/models
+EPIC-rgb-flow-audio/results
+EPIC-rgb-flow-audio/pretrained_models/*
+
+HAC-rgb-flow-audio/models
+HAC-rgb-flow-audio/results
+HAC-rgb-flow-audio/pretrained_models/*
+
+__pycache__
+.DS_Store
